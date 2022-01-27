@@ -1,6 +1,7 @@
 # Slim Wallet
 * [Thingiverse Link](https://www.thingiverse.com/thing:1756637)
 * [Instagram Post](https://www.instagram.com/p/CZPJlIrlmRi)
+* [Fusion 360 Tutorial](https://www.youtube.com/watch?v=peNErGufsg0) for designing the wallet.
 
 # Prints
 ## Print 1: Prototype
